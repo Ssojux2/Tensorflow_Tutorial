@@ -1,6 +1,6 @@
 # Tensorflow Tutorial
 
-* update 2019. 12. 11
+* update 2020. 8. 10
 
 ## Prerequisites
 * Tensorflow 2.0+
