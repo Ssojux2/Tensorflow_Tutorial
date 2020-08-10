@@ -1,50 +1,0 @@
-ËÆŽÕI
-)
-layer-0
-layer-1
-	optimizer
-
-
-kernel
-bias
-
-
-kernel
-bias
- 
-	optimizer
-	global_step
-[Y
-VARIABLE_VALUEsequential_4/dense_13/kernel)layer-0/kernel/.ATTRIBUTES/VARIABLE_VALUE
-WU
-VARIABLE_VALUEsequential_4/dense_13/bias'layer-0/bias/.ATTRIBUTES/VARIABLE_VALUE
-[Y
-VARIABLE_VALUEsequential_4/dense_14/kernel)layer-1/kernel/.ATTRIBUTES/VARIABLE_VALUE
-WU
-VARIABLE_VALUEsequential_4/dense_14/bias'layer-1/bias/.ATTRIBUTES/VARIABLE_VALUE
-j
-
-beta1_power
-beta2_powermmmmvvvv
-\Z
-VARIABLE_VALUETFOptimizer/iterations0optimizer/global_step/.ATTRIBUTES/VARIABLE_VALUE
-fd
-VARIABLE_VALUEtraining_5/beta1_power:optimizer/optimizer/beta1_power/.ATTRIBUTES/VARIABLE_VALUE
-fd
-VARIABLE_VALUEtraining_5/beta2_power:optimizer/optimizer/beta2_power/.ATTRIBUTES/VARIABLE_VALUE
-‡„
-VARIABLE_VALUE!sequential_4/dense_13/kernel/AdamOlayer-0/kernel/.OPTIMIZER_SLOT/optimizer/optimizer/m/.ATTRIBUTES/VARIABLE_VALUE
-ƒ€
-VARIABLE_VALUEsequential_4/dense_13/bias/AdamMlayer-0/bias/.OPTIMIZER_SLOT/optimizer/optimizer/m/.ATTRIBUTES/VARIABLE_VALUE
-‡„
-VARIABLE_VALUE!sequential_4/dense_14/kernel/AdamOlayer-1/kernel/.OPTIMIZER_SLOT/optimizer/optimizer/m/.ATTRIBUTES/VARIABLE_VALUE
-ƒ€
-VARIABLE_VALUEsequential_4/dense_14/bias/AdamMlayer-1/bias/.OPTIMIZER_SLOT/optimizer/optimizer/m/.ATTRIBUTES/VARIABLE_VALUE
-‰†
-VARIABLE_VALUE#sequential_4/dense_13/kernel/Adam_1Olayer-0/kernel/.OPTIMIZER_SLOT/optimizer/optimizer/v/.ATTRIBUTES/VARIABLE_VALUE
-…‚
-VARIABLE_VALUE!sequential_4/dense_13/bias/Adam_1Mlayer-0/bias/.OPTIMIZER_SLOT/optimizer/optimizer/v/.ATTRIBUTES/VARIABLE_VALUE
-‰†
-VARIABLE_VALUE#sequential_4/dense_14/kernel/Adam_1Olayer-1/kernel/.OPTIMIZER_SLOT/optimizer/optimizer/v/.ATTRIBUTES/VARIABLE_VALUE
-…‚
-VARIABLE_VALUE!sequential_4/dense_14/bias/Adam_1Mlayer-1/bias/.OPTIMIZER_SLOT/optimizer/optimizer/v/.ATTRIBUTES/VARIABLE_VALUE
