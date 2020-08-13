@@ -8,4 +8,4 @@
 * Jupyter Notebook
 
 ### Ex
-* <a id="Cats_and_Dogs" href="https://download.mail.naver.com/file/download/each/?attachType=normal&mailSN=46035&attachIndex=2&virus=1&domain=mail.naver.com&u=sjs0827">Download FILE</a>
+* <a id="Cats_and_Dogs" href="https://www.dropbox.com/s/x1gk3fexiqfcs4j/Cat%20and%20Dog%20classification.ipynb.zip?dl=0">Download FILE</a>
