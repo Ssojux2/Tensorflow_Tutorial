@@ -7,5 +7,5 @@
 * Python 3.6+
 * Jupyter Notebook
 
-### Ex
-* <a id="Cats_and_Dogs" href="https://www.dropbox.com/s/x1gk3fexiqfcs4j/Cat%20and%20Dog%20classification.ipynb.zip?dl=0">Download FILE</a>
+### Ex and sol
+* <a id="Cats_and_Dogs" href="https://www.dropbox.com/s/hntnojzjfxhdu9v/classification.zip?dl=0">Download FILE</a>
